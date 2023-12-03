@@ -5,6 +5,9 @@ Untuk Tugas Sistem Informasi Akuntansi (SIA)
 ## About
 Sistem informasi untuk melakukan pencatatan penjualan toko sederhana yang dibuat dengan Laravel 7
 
+### Flowchart
+![sistem informasi pencatatan penjualan toko](https://github.com/zakiaaminia/SistemInformasiAkuntansi-Pencatatan-Penjualan-Toko/assets/152748628/7612db22-3dba-4035-8d0f-341d6a6012be)
+
 ### Screenshot
 ![Screenshot (355)](https://github.com/zakiaaminia/SistemInformasiAkuntansi-LaraPOS-Kasir/assets/152748628/9c948d16-dd4f-4a5d-809c-bd212e19fbee)
 
