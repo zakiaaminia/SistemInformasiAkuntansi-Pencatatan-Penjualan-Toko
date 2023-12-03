@@ -1,4 +1,4 @@
-# LaraPos
+# SistemInformasiAkuntansi-Pencatatan-Penjualan-Toko
 [![Stable Laravel](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
 
 ## About
