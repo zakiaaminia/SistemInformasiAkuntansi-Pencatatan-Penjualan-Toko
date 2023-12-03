@@ -21,7 +21,7 @@ Screenshot Designer phpMyAdmin
 ## Installasi
 ```
 git clone https://github.com/zakiaaminia/SistemInformasiAkuntansi-Kasir-LaraPOS
-cd SistemInformasiAkuntansi-LaraPOS-Kasir
+cd SistemInformasiAkuntansi-Pencatatan-Penjualan-Toko
 composer install
 ```
 Buat database baru, lalu rename `.env.example` menjadi `.env`, lalu edit:
@@ -45,3 +45,6 @@ menjadi admin, maka perlu edit manual di table users.
 Email: zakiaaminia1@gmail.com
 
 Password: IniPasswordZakia123
+
+## Lisensi
+[MIT license](https://opensource.org/licenses/MIT)
