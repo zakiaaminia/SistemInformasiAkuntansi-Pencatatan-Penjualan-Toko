@@ -10,7 +10,7 @@ Aplikasi pencatatan penjualan toko sederhana dibuat dengan Laravel 7.
 ## Installasi
 ```
 git clone https://github.com/zakiaaminia/SistemInformasiAkuntansi-Kasir-LaraPOS
-cd LaraPos
+cd SistemInformasiAkuntansi-LaraPOS-Kasir
 composer install
 ```
 Buat database baru, lalu rename `.env.example` menjadi `.env`, lalu edit:
