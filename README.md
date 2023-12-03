@@ -9,7 +9,10 @@ Sistem informasi untuk melakukan pencatatan penjualan toko sederhana yang dibuat
 ![sistem informasi pencatatan penjualan toko](https://github.com/zakiaaminia/SistemInformasiAkuntansi-Pencatatan-Penjualan-Toko/assets/152748628/7612db22-3dba-4035-8d0f-341d6a6012be)
 
 ### Screenshot
+Screenshot Penggunaan Web
 ![Screenshot (355)](https://github.com/zakiaaminia/SistemInformasiAkuntansi-LaraPOS-Kasir/assets/152748628/9c948d16-dd4f-4a5d-809c-bd212e19fbee)
+Screenshot Structure phpMyAdmin
+![Screenshot (351)](https://github.com/zakiaaminia/SistemInformasiAkuntansi-Pencatatan-Penjualan-Toko/assets/152748628/e26f353b-b69c-4afd-b8d9-d596bc96c785)
 
 ## Installasi
 ```
