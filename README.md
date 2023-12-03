@@ -11,8 +11,12 @@ Sistem informasi untuk melakukan pencatatan penjualan toko sederhana yang dibuat
 ### Screenshot
 Screenshot Penggunaan Web
 ![Screenshot (355)](https://github.com/zakiaaminia/SistemInformasiAkuntansi-LaraPOS-Kasir/assets/152748628/9c948d16-dd4f-4a5d-809c-bd212e19fbee)
+
 Screenshot Structure phpMyAdmin
 ![Screenshot (351)](https://github.com/zakiaaminia/SistemInformasiAkuntansi-Pencatatan-Penjualan-Toko/assets/152748628/e26f353b-b69c-4afd-b8d9-d596bc96c785)
+
+Screenshot Designer phpMyAdmin
+![Screenshot (354)](https://github.com/zakiaaminia/SistemInformasiAkuntansi-Pencatatan-Penjualan-Toko/assets/152748628/3ecaa95d-a191-41a0-af2b-4c9915a627e5)
 
 ## Installasi
 ```
@@ -36,6 +40,3 @@ php artisan migrate
 ```
 Silakan lakukan register akun di `http://localhost:8000/register`. Secara bawaan, rolenya adalah 'user', untuk mengubahnya
 menjadi admin, maka perlu edit manual di table users.
-
-## Lisensi
-[MIT license](https://opensource.org/licenses/MIT)
