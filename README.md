@@ -7,6 +7,8 @@ Aplikasi pencatatan penjualan toko sederhana dibuat dengan Laravel 7.
 ### Screenshot
 ![Screenshot transaksi](transaksi.jpg)
 
+![Screenshot (355)](https://github.com/zakiaaminia/SistemInformasiAkuntansi-LaraPOS-Kasir/assets/152748628/9c948d16-dd4f-4a5d-809c-bd212e19fbee)
+
 ## Installasi
 ```
 git clone https://github.com/zakiaaminia/SistemInformasiAkuntansi-Kasir-LaraPOS
